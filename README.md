@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Collaboration-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Collaboration-Platform?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Collaboration-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Collaboration-Platform?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Collaboration-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Collaboration-Platform?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Collaboration-Platform/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Collaboration-Platform?style=flat-square&color=blue" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Collaboration-Platform/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License" /></a>
@@ -70,99 +70,99 @@ The table below catalogs premier commercial collaboration suites, sorted in **de
 
 ## 💻 Open-Source GitHub Projects
 
-Explore battle-tested open-source alternatives to commercial collaboration platforms. All projects are sorted in **descending order of GitHub star counts**, with live social stargazer badges linking directly to their stargazers page.
+Explore battle-tested open-source alternatives to commercial collaboration platforms. All projects are sorted in **descending order of GitHub Stars_Counts**, with live social stargazer badges linking directly to their stargazers page.
 
-- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)
+- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)
   - **Decentralized continuous file synchronization & storage** (MPL-2.0) — Peer-to-peer file syncing protocol and client replacing proprietary sync clouds like Dropbox and Google Drive without central relay storage.
   - **Key Features**: Direct TLS encrypted peer syncing, cross-platform (Linux, Windows, macOS, Android), NAT traversal, zero cloud storage dependencies.
   - **Best for**: Teams and privacy-first organizations requiring decentralized, high-security file replication across servers and endpoints.
 
-- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
+- **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** [![GitHub_Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers)
   - **Offline-first AI collaborative workspace & Notion alternative** (AGPL-3.0) — Modern workspace built with Flutter and Rust, combining customizable documents, relational databases, Kanban boards, and local AI capabilities.
   - **Key Features**: 100% offline-first local data storage, end-to-end encrypted cloud sync, AI assistant with local or BYO-key LLMs, native mobile and desktop clients.
   - **Best for**: Cross-functional squads and knowledge workers seeking an extensible, privacy-respecting alternative to Notion with zero vendor lock-in.
 
-- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
+- **[AFFiNE](https://github.com/toeverything/AFFiNE)** [![GitHub_Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers)
   - **All-in-one KnowledgeOS combining Notion-style docs and Miro-style canvases** (MIT / Community) — Unified canvas and document editor that seamlessly switches between structured text and infinite visual whiteboard modes.
   - **Key Features**: Edgeless visual canvas for sticky notes and mind maps, local-first syncing, AI-assisted writing and diagramming, Docker Compose deployment.
   - **Best for**: Teams desiring a unified creative workspace merging structured wikis, visual brainstorming, and project tracking.
 
-- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
+- **[NocoDB](https://github.com/nocodb/nocodb)** [![GitHub_Stars](https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white)](https://github.com/nocodb/nocodb/stargazers)
   - **Open-source smart spreadsheet & Airtable alternative** (AGPL-3.0) — Turns any relational database (PostgreSQL, MySQL, SQL Server, SQLite) into an interactive collaborative smart spreadsheet.
   - **Key Features**: Grid, Gallery, Kanban, Calendar, and Form views; formula columns; role-based access controls; webhook integrations; REST/GraphQL APIs.
   - **Best for**: Teams managing operations, internal tooling, and collaborative relational data workflows without paying steep Airtable per-seat premiums.
 
-- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
+- **[Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)** [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)
   - **Enterprise communications hub & team collaboration platform** (GPL-3.0 / Commercial) — Channel-based messaging system with enterprise compliance, voice/video conferencing, and omnichannel routing.
   - **Key Features**: Matrix protocol federation, omnichannel customer service inbox, end-to-end encryption, guest accounts, HIPAA and GDPR compliance tooling.
   - **Best for**: Enterprises and security-sensitive organizations seeking an on-premises Slack or MS Teams chat alternative.
 
-- **[Outline](https://github.com/outline/outline)** [![GitHub stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
+- **[Outline](https://github.com/outline/outline)** [![GitHub_Stars](https://img.shields.io/github/stars/outline/outline?style=social&color=white)](https://github.com/outline/outline/stargazers)
   - **Fast, modern team knowledge base & collaborative wiki** (BSL-1.1 / Open Source Core) — Beautiful Markdown-powered documentation platform with real-time multiplayer co-editing.
   - **Key Features**: Slash commands, nested document hierarchies, instant full-text search, Google/Slack/OIDC SSO, document change history.
   - **Best for**: Startups and product teams building centralized internal knowledge bases and engineering wikis.
 
-- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)
+- **[Mattermost](https://github.com/mattermost/mattermost)** [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)
   - **Developer-focused secure collaboration & workflow platform** (MIT / Commercial) — Open-source team messaging, workflow automation, and incident coordination platform designed for technical organizations.
   - **Key Features**: Deep Jira/GitHub/GitLab integrations, Playbooks for structured process workflows, Boards for agile tracking, enterprise SSO and compliance export.
   - **Best for**: DevOps, SecOps, and engineering teams requiring self-hosted messaging and incident resolution channels.
 
-- **[Nextcloud Hub](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)
+- **[Nextcloud Hub](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)
   - **Comprehensive sovereign productivity suite & Microsoft 365 alternative** (AGPL-3.0) — The most complete self-hosted collaboration platform with files, chat, office suites, and mail.
   - **Key Features**: Nextcloud Files (sync & share), Talk (audio/video calls), Groupware (Mail, Calendar, Contacts), Nextcloud Office (real-time Collabora/OnlyOffice co-editing), and Nextcloud Assistant (on-prem AI).
   - **Best for**: Organizations, government entities, and enterprises requiring full data sovereignty and an integrated suite alternative to Microsoft 365 or Google Workspace.
 
-- **[Wekan](https://github.com/wekan/wekan)** [![GitHub stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
+- **[Wekan](https://github.com/wekan/wekan)** [![GitHub_Stars](https://img.shields.io/github/stars/wekan/wekan?style=social&color=white)](https://github.com/wekan/wekan/stargazers)
   - **Collaborative open-source Kanban board & Trello alternative** (MIT) — Lightweight, self-hostable project management board with multi-column swimlanes and granular permissions.
   - **Key Features**: Trello board import, color-coded custom labels, member assignments, sub-tasks, webhooks, and flexible container deployment.
   - **Best for**: Teams seeking a straightforward, responsive Kanban system for tracking tasks without recurring software subscriptions.
 
-- **[Etherpad](https://github.com/ether/etherpad-lite)** [![GitHub stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)
+- **[Etherpad](https://github.com/ether/etherpad-lite)** [![GitHub_Stars](https://img.shields.io/github/stars/ether/etherpad-lite?style=social&color=white)](https://github.com/ether/etherpad-lite/stargazers)
   - **Real-time collaborative text editor** (Apache-2.0) — Ultra-responsive multi-user simultaneous document editing engine with rich plugin architecture.
   - **Key Features**: True multiplayer typing with authorship color highlights, time slider version revision playback, rich text formatting, and easy embeddability.
   - **Best for**: Developers and educational institutions needing lightweight, real-time cooperative document editing integrated into existing web tools.
 
-- **[OpenProject](https://github.com/opf/openproject)** [![GitHub stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
+- **[OpenProject](https://github.com/opf/openproject)** [![GitHub_Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers)
   - **Enterprise open-source project management & Jira alternative** (GPL-3.0) — Comprehensive project governance suite covering work package management, agile boards, and timelines.
   - **Key Features**: Interactive Gantt charts, sprint backlogs, task hierarchies, time tracking, cost reporting, and direct integration with XWiki.
   - **Best for**: Engineering and project management offices wanting an end-to-end, privacy-compliant alternative to Jira and Asana.
 
-- **[Seafile](https://github.com/haiwen/seafile)** [![GitHub stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)
+- **[Seafile](https://github.com/haiwen/seafile)** [![GitHub_Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)
   - **High-performance enterprise file hosting & cloud sync** (AGPL-3.0 / Commercial) — Speed-focused cloud storage platform featuring delta-block syncing to sync only modified bytes.
   - **Key Features**: Delta block sync, client-side encryption (AES-256), virtual drive client (Seadrive), collaborative doc previewing, multi-platform sync.
   - **Best for**: Teams dealing with large file assets and bandwidth constraints demanding high-speed, secure sync performance.
 
-- **[Element](https://github.com/element-hq/element-web)** [![GitHub stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers)
+- **[Element](https://github.com/element-hq/element-web)** [![GitHub_Stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers)
   - **Decentralized secure messenger & Matrix client** (AGPL-3.0) — Modern web and desktop collaboration client connected to the federated Matrix protocol network.
   - **Key Features**: End-to-end encryption (Olm/Megolm), cross-signing device verification, spaces/communities, VoIP and group video conferencing.
   - **Best for**: Organizations prioritizing encrypted communications and cross-organizational decentralized federation.
 
-- **[Planka](https://github.com/plankanban/planka)** [![GitHub stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
+- **[Planka](https://github.com/plankanban/planka)** [![GitHub_Stars](https://img.shields.io/github/stars/plankanban/planka?style=social&color=white)](https://github.com/plankanban/planka/stargazers)
   - **Real-time collaborative Kanban board for project management** (AGPL-3.0) — Lightweight, elegant visual task tracking application built with React and Redux.
   - **Key Features**: Real-time websocket board updates, custom background artwork, card timers, markdown card descriptions, attachments, and user mentions.
   - **Best for**: Small development squads and creative teams looking for a responsive, modern Kanban workspace.
 
-- **[Leantime](https://github.com/Leantime/leantime)** [![GitHub stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
+- **[Leantime](https://github.com/Leantime/leantime)** [![GitHub_Stars](https://img.shields.io/github/stars/Leantime/leantime?style=social&color=white)](https://github.com/Leantime/leantime/stargazers)
   - **Goal-driven project management platform** (AGPL-3.0) — Strategic project management tool emphasizing OKRs, idea boards, and milestone execution.
   - **Key Features**: Strategy-to-task alignment, Lean canvas templates, Kanban/calendar/table views, time sheets, and team milestone tracking.
   - **Best for**: Startups, digital agencies, and non-technical managers seeking visual alignment between business goals and daily tasks.
 
-- **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)
+- **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub_Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)
   - **Zero-knowledge end-to-end encrypted collaborative suite** (AGPL-3.0) — Privacy-by-design office suite where all documents, rich text, code, and sheets are encrypted client-side.
   - **Key Features**: Client-side cryptography (server never sees user content), rich text, spreadsheets, presentations, Kanban, whiteboards, and forms.
   - **Best for**: Whistleblowers, legal teams, researchers, and security-critical teams needing zero-knowledge real-time co-authoring.
 
-- **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers)
+- **[HedgeDoc](https://github.com/hedgedoc/hedgedoc)** [![GitHub_Stars](https://img.shields.io/github/stars/hedgedoc/hedgedoc?style=social&color=white)](https://github.com/hedgedoc/hedgedoc/stargazers)
   - **Collaborative real-time Markdown notes platform** (AGPL-3.0) — Live multi-author Markdown editor with instantaneous HTML and presentation slide deck previewing.
   - **Key Features**: Collaborative Markdown editing, MathJax formulas, Mermaid and UML diagrams, Reveal.js slide presentation mode, flexible permission levels.
   - **Best for**: Technical teams, researchers, and meetup organizers documenting architectures and preparing live presentations.
 
-- **[Pydio Cells](https://github.com/pydio/cells)** [![GitHub stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers)
+- **[Pydio Cells](https://github.com/pydio/cells)** [![GitHub_Stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers)
   - **Enterprise digital asset & cloud collaboration platform** (AGPL-3.0 / Commercial) — Microservices-engineered content sharing hub written in Go for large-scale enterprise deployments.
   - **Key Features**: Microservice architecture (Go + gRPC), granular access rules, security policies, DLP (data loss prevention), audit logs, and S3 backend support.
   - **Best for**: Large institutions and regulated enterprises needing robust file governance, compliance workflows, and multi-tenancy.
 
-- **[XWiki](https://github.com/xwiki/xwiki-platform)** [![GitHub stars](https://img.shields.io/github/stars/xwiki/xwiki-platform?style=social&color=white)](https://github.com/xwiki/xwiki-platform/stargazers)
+- **[XWiki](https://github.com/xwiki/xwiki-platform)** [![GitHub_Stars](https://img.shields.io/github/stars/xwiki/xwiki-platform?style=social&color=white)](https://github.com/xwiki/xwiki-platform/stargazers)
   - **Extensible enterprise knowledge base & Confluence alternative** (LGPL-2.1) — Mature Java-based collaborative wiki platform featuring extensive scripting and metadata structures.
   - **Key Features**: Structured data forms, granular page rights, Solr search, Confluence Migration Toolkit, sub-wikis, and hundreds of extensions.
   - **Best for**: Enterprises seeking an open-source Confluence replacement with strong document management and content migration capabilities.
