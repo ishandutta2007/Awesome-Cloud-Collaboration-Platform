@@ -32,79 +32,31 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global cloud collaboration market is valued at approximately $60.5B to $73.6B in 2026, advancing at a compound annual growth rate (CAGR) of around 13%–16%.
+The sector exhibits a dual structure: it is moderately fragmented at the broader workflow and niche application layer (project management, specialized documentation, whiteboards), but heavily concentrated and winner-take-all at the core enterprise workspace layer, where tech titans like Microsoft and Google dominate enterprise spend through bundled productivity suites and AI copilots.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Microsoft 365](https://www.microsoft.com/microsoft-365)**
-
-  **Integrated productivity suite** with Teams, Outlook, SharePoint, OneDrive, and Office apps. **Pricing**: Business plans from ~$6/user/month; Enterprise quote-based. **Free tier**: Limited web versions of Office apps. **Best for**: organizations deeply invested in Microsoft ecosystem wanting unified identity, compliance, and collaboration.
-
-
-
-- **[Google Workspace](https://workspace.google.com/)**
-
-  **Cloud productivity suite** with Gmail, Drive, Docs, Meet, and Chat. **Pricing**: Business Starter from ~$7/user/month; Enterprise quote-based. **Free tier**: Limited personal Google account features. **Best for**: teams wanting simple, browser-first collaboration with strong real-time co-editing.
-
-
-
-- **[Atlassian Cloud](https://www.atlassian.com/)**
-
-  **Collaboration and project management suite** with Jira, Confluence, Trello, and Bitbucket. **Pricing**: Free tiers per product; paid plans per user. **Free tier**: Yes, limited users per product. **Best for**: software teams wanting integrated issue tracking, documentation, and code collaboration.
-
-
-
-- **[Slack](https://slack.com/)**
-
-  **Channel-based messaging platform** with extensive app integrations. **Pricing**: Free tier with 90-day history; Pro from $8.75/user/month. **Free tier**: Yes, limited. **Best for**: teams wanting a flexible collaboration hub with broad third-party app support.
-
-
-
-- **[Notion](https://www.notion.com/)**
-
-  **All-in-one workspace** combining docs, databases, wikis, and project views. **Pricing**: Free tier; paid from $10/user/month. **Free tier**: Yes, limited blocks. **Best for**: teams wanting flexible, database-driven documentation and project tracking.
-
-
-
-- **[Box](https://www.box.com/)**
-
-  **Enterprise content management** with file sharing, governance, and collaboration. **Pricing**: Quote-only; tiered by users and storage. **Free tier**: Limited personal free tier. **Best for**: enterprises needing secure file collaboration with compliance controls.
-
-
-
-- **[Dropbox](https://www.dropbox.com/)**
-
-  **File sync and sharing platform** with collaborative features. **Pricing**: Free tier; paid from $11.99/month. **Free tier**: Yes, limited storage. **Best for**: individuals and teams wanting simple, reliable file sync and sharing.
-
-
-
-- **[Asana](https://asana.com/)**
-
-  **Work management platform** for project and task collaboration. **Pricing**: Free tier; paid from $10.99/user/month. **Free tier**: Yes, limited. **Best for**: cross-functional teams coordinating projects and tasks.
-
-
-
-- **[Monday.com](https://monday.com/)**
-
-  **Work operating system** with customizable boards and automations. **Pricing**: Tiered per-seat pricing; quote-based for enterprise. **Free tier**: Limited free plan. **Best for**: teams wanting visual, customizable workflows without deep configuration.
-
-
-
-- **[Basecamp](https://basecamp.com/)**
-
-  **Simple project management and team communication** with message boards, to-dos, and file storage. **Pricing**: Flat $299/month for unlimited users. **Free tier**: None. **Best for**: small teams wanting simple, flat-rate project collaboration.
-
-
+| Platform | Starting Tier Price | Free Tier Limits / Free Trial | Company Scale (Market Cap / Valuation / Revenue) | Best For & Core Features |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft 365](https://www.microsoft.com/microsoft-365)** | $6.00/user/month (Business Basic, billed annually) | Permanent free web apps (Word, Excel, PowerPoint on browser with 5 GB OneDrive storage); or 30-day free trial of premium desktop apps (up to 25 seats for Business Standard, credit card required) | ~$3.6T Market Cap (~$245B+ annual revenue) | Organizations deeply invested in Microsoft ecosystem wanting unified identity, compliance, and collaboration. |
+| **[Google Workspace](https://workspace.google.com/)** | $7.00/user/month (Business Starter, billed annually) | 14-day free trial (up to 10 users, credit card required; ends immediately if 11th user is added) | ~$3.8T Market Cap (~$350B+ annual revenue via Alphabet) | Teams wanting simple, browser-first collaboration with strong real-time co-editing across Docs/Sheets/Slides, Gmail, and Google Meet. |
+| **[Slack](https://slack.com/)** | $8.75/user/month (Pro, billed annually) | Permanent free plan with 90-day searchable message & file history limit (older data hidden/archived; permanently deleted after 1 year), 10 app integrations, 1-on-1 audio/video huddles, and 5 GB storage | ~$27.7B Acquisition / ~$300B+ Market Cap (~$38B annual revenue via Salesforce) | Teams wanting a flexible collaboration hub with broad third-party app support. |
+| **[Atlassian Cloud](https://www.atlassian.com/)** | $7.15/user/month (Jira Standard, billed annually) | Permanent free plan: Jira & Confluence free for up to 10 users per site with 2 GB pooled file storage; Trello free for up to 10 collaborators per workspace (max 10 open boards, 10 MB per attachment) | ~$55B Market Cap (~$5.2B annual revenue) | Software teams wanting integrated issue tracking, documentation, and code collaboration. |
+| **[Notion](https://www.notion.com/)** | $10.00/user/month (Plus, billed annually) | Permanent free plan: Unlimited blocks for solo users, 1,000 lifetime blocks when adding 2+ members, 10 guest collaborators, 5 MB file upload limit, and 7-day page version history | ~$11B Private Valuation (~$600M+ ARR) | Teams wanting flexible, database-driven documentation and project tracking. |
+| **[Monday.com](https://monday.com/)** | $9.00/seat/month (Basic, billed annually; 3-seat min = $27/month) | Permanent free plan: Up to 2 seats, 3 boards, 200 total items/rows limit, 500 MB storage, no automations or integrations; or 14-day free trial of Pro plan (no credit card required) | ~$7.5B Market Cap (~$1.2B annual revenue) | Teams wanting visual, customizable workflows without deep configuration. |
+| **[Dropbox](https://www.dropbox.com/)** | $9.99/month (Plus single user, billed annually) or $15.00/user/month (Standard for teams) | Permanent free plan (Dropbox Basic) with 2 GB total storage and max 3 connected devices; or 30-day free trial on paid team plans | ~$7.1B Market Cap (~$2.5B annual revenue) | Individuals and teams wanting simple, reliable file sync and sharing. |
+| **[Box](https://www.box.com/)** | $5.00/user/month (Business Starter, billed annually, 3-user min) or $10.00/month (Personal Pro) | Permanent free plan (Free Individual) with 10 GB storage, single user, 250 MB single file upload limit, 1 file version history, and 5 Box Sign requests/month; or 14-day free trial on Business plans | ~$4.8B Market Cap (~$1.1B annual revenue) | Enterprises needing secure file collaboration with compliance controls. |
+| **[Asana](https://asana.com/)** | $10.99/user/month (Starter, billed annually) | Permanent free plan (Personal) for up to 2 users, unlimited tasks/projects, 100 MB max file attachment limit, basic list/board/calendar views (no timeline/Gantt, automations, or custom fields); or 30-day free trial of Starter/Advanced | ~$3.3B Market Cap (~$720M annual revenue) | Cross-functional teams coordinating projects and tasks. |
+| **[Basecamp](https://basecamp.com/)** | $29.00/month (Freelancer plan; or $15/user/month Basecamp standard; or flat $299/month Pro Unlimited) | Permanent free plan: Up to 3 users, 1 active project, 1 GB storage; or 30-day free trial on all paid plans (no credit card required) | ~$50M–$70M+ ARR (Privately held / bootstrapped by 37signals, $0 external valuation) | Small teams wanting simple, flat-rate project collaboration. |
 
 ## Open-Source GitHub Projects
 
